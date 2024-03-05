@@ -7,13 +7,6 @@ This ReactJS component enables QR code scanning, facilitating the integration of
 - **Simple Integration:** Easily add QR scanning to your React app.
 - **Customizable:** Adjust scan settings to fit your application's needs.
 
-## Installation
-
-To use this component, clone the repository and install dependencies:
-
-npm install
-
-
 ## Usage
 
 Import and use the component in your React application:
